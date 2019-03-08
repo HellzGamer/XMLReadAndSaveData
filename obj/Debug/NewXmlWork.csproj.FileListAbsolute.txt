@@ -1,0 +1,15 @@
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\obj\Debug\NewXmlWork.csprojAssemblyReference.cache
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\obj\Debug\NewXmlWork.csproj.CoreCompileInputs.cache
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\NewXmlWork.exe.config
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\NewXmlWork.exe
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\NewXmlWork.pdb
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\log4net.dll
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\log4net.xml
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\obj\Debug\NewXmlWork.csproj.CopyComplete
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\obj\Debug\NewXmlWork.exe
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\obj\Debug\NewXmlWork.pdb
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\Dapper.dll
+C:\Users\DeveshR\source\repos\Log4netWindowsService\NewXmlWork\bin\Debug\Dapper.xml
